@@ -18,4 +18,4 @@ def countdown_with_sleep
   "HAPPY NEW YEAR!" 
 end
 
-countdown_with_sleep(4)
+
